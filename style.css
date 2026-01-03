@@ -1,6 +1,6 @@
 @font-face {
     font-family: main;
-    src: url(./NeueMachina-Light_gwWCZxVuQl.ttf);
+    src: url(./NeueMachina-Light_gwWCZxVuQl.ttf) format('truetype');
 }
 
 *{
