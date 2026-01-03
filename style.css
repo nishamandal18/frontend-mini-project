@@ -35,9 +35,11 @@ h1{
 button{
     margin-right: 50px;
     font-family: 'main';
+    color: black;
     background-color: #FFAB10;
     padding: 5px;
     border-radius: 20px;
+    border-color: aliceblue;
     font-size: 18px;
 
     position: absolute;
